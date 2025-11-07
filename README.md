@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Simone.<br>🤓 I'm a 22 year old front-end developer from Milan, IT.<br>🔭 I’m currently working on C# .NET Desktop Development and Advanced Next.JS websites<br>🌱 I’m currently learning C#<br>📫 How to reach me? HERE => simomagy02@proton.me
+Hi 👋, I'm Simone.<br>🤓 I'm a 23 year old front-end developer from Milan, IT.<br>🔭 I’m currently working on C# .NET Desktop Development and Advanced Next.JS websites<br>🌱 I’m currently learning C#<br>📫 How to reach me? HERE => simomagy02@proton.me
 
 
 ## 🌐 Socials:
